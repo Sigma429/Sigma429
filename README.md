@@ -30,10 +30,8 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sigma429&theme=github-compact&custom_title=Activity&radius=30&height=250" alt="Lazy">
 
-#### :bar_chart: [每月编码时间](https://github.com/muety/wakapi)
+#### :bar_chart: 每月编码时间
 
 <!--START_SECTION:waka-->
-
-
 
 <!--END_SECTION:waka-->
