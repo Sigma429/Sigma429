@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 一个大二后端菜鸟
 
--   :hammer_and_pick: Java / Spring / Mysql/ Python / Linux/ Docker / 设计模式 / 计算机基础
+-   :hammer_and_pick:![](https://img.shields.io/badge/python-orange) ![](https://img.shields.io/badge/Java-blue)![](https://img.shields.io/badge/Spring-green)![](https://img.shields.io/badge/Mysql-brown)![](https://img.shields.io/badge/Linux-Cambridge%20blue)![](https://img.shields.io/badge/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80-red)
 -   📫 我的邮箱：1059769283@qq.com
 
 
