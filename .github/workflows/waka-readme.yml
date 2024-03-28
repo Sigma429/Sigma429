@@ -15,3 +15,11 @@ jobs:
       - uses: athul/waka-readme@master # this action name
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          # 提交消息
+          COMMIT_MESSAGE: Update Wakapi stats
+          # 图形
+          BLOCKS: "⬜🟨🟩"
+          # 时间范围
+          TIME_RANGE: last_30_days
+          # 显示时间
+          SHOW_TIME: true
