@@ -20,27 +20,8 @@ Here are some ideas to get you started:
 
 一个大二后端菜鸟
 
--   :hammer_and_pick:![](https://img.shields.io/badge/python-orange) ![](https://img.shields.io/badge/Java-blue)![](https://img.shields.io/badge/Spring-green)![](https://img.shields.io/badge/Mysql-brown)![](https://img.shields.io/badge/Linux-Cambridge%20blu=e)![Static Badge](https://img.shields.io/badge/Docker-violet)![](https://img.shields.io/badge/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F-yellow)![](https://img.shields.io/badge/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80-red)
+-   :hammer_and_pick: ![](https://img.shields.io/badge/Java-blue)![](https://img.shields.io/badge/Spring-green)![](https://img.shields.io/badge/Mysql-brown)![](https://img.shields.io/badge/Linux-Cambridge%20blu=e)![Static Badge](https://img.shields.io/badge/Docker-violet)![](https://img.shields.io/badge/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F-yellow)![](https://img.shields.io/badge/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80-red)
 -   📫 我的邮箱：1059769283@qq.com
-
-
-#### :sparkles: [我的粉丝](https://github.com/Sigma429?tab=followers)
-
-<!--START_SECTION:followers-->
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/okisno">
-        <img src="https://avatars2.githubusercontent.com/u/1029665" width="100px;" alt="okisno"/>
-      </a>
-      <br />
-      <a href="https://github.com/okisno">Stan</a>
-    </td>
-  </tr>
-</table>
-
-<!--END_SECTION:followers-->
 
 ---
 
