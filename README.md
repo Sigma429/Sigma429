@@ -33,4 +33,9 @@
 #### :bar_chart: 每月编码时间
 
 <!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
