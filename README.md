@@ -31,12 +31,10 @@
 
 #### Top Repositories
 
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+<a href="https://github.com/Sigma429/sl-express">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sigma429&repo=sl-express&theme=buefy" />
-</a><a href="https://github.com/anuraghazra/github-readme-stats">
+</a><a href="https://github.com/Sigma429/mall">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sigma429&repo=mall&theme=buefy" /></a>
-
-
 
 #### :bar_chart: 每月编码时间
 
