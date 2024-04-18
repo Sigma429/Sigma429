@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&center=%E7%9C%9F&vCenter=%E7%9C%9F&repeat=%E7%9C%9F&random=%E5%81%87&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Sigma429)](https://git.io/typing-svg)
+
 <h1 align="center">Hi 👋, I'm Sigma429
   <div style="text-align: center;">
     <img src="https://img.shields.io/badge/Java-blue" style="display: inline-block;" /> 
@@ -10,6 +12,7 @@
     <img src="https://img.shields.io/badge/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80-red" style="display: inline-block;" /> 
   </div>
 </h1>
+
 <img align="right" width="180" src="https://camo.githubusercontent.com/5124bc64baa72108c343f25e8d9dd1680c99d2b9559b5b313c43761dd48ca743/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f73756e3032323553554e2f73756e3032323553554e2f6173736574732f696d616765732f617374726f6e6175742e706e67">
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
