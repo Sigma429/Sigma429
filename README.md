@@ -1,6 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&center=%E7%9C%9F&vCenter=%E7%9C%9F&repeat=%E7%9C%9F&random=%E5%81%87&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Sigma429)](https://git.io/typing-svg)
-
-<h1 align="center">
+<h1 align="center">Hi 👋, I'm Sigma429
   <div style="text-align: center;">
     <img src="https://img.shields.io/badge/Java-blue" style="display: inline-block;" /> 
     <img src="https://img.shields.io/badge/Spring-green" style="display: inline-block;" /> 
