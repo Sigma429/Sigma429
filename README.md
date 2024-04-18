@@ -29,6 +29,8 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sigma429&theme=github-compact&custom_title=Activity&radius=30&height=250" alt="Lazy">
 
+![](https://github-profile-trophy.vercel.app/?username=Sigma429&theme=&no-frame=false&no-bg=false&margin-w=4)
+
 #### Top Repositories
 
 <a href="https://github.com/Sigma429/sl-express">
