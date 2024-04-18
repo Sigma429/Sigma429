@@ -29,7 +29,7 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sigma429&theme=github-compact&custom_title=Activity&radius=30&height=250" alt="Lazy">
 
-![](https://github-profile-trophy.vercel.app/?username=Sigma429&theme=&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Sigma429&no-frame=false&column=3&margin-w=15&margin-h=15)
 
 #### Top Repositories
 
